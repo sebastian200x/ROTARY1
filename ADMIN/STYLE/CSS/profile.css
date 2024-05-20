@@ -1,0 +1,80 @@
+.prof-container {
+    background-color: #545454;
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 20px;
+
+
+
+
+}
+
+.row {
+    display: flex;
+    width: 100%;
+    text-align: right;
+    align-items: center;
+}
+
+.col1 {
+    width: 20%;
+    padding: 25px;
+}
+
+.col2 {
+    width: 80%;
+    padding: 25px;
+}
+
+input {
+    width: 100%;
+    height: 30px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+label {
+    color: #D9DCDA;
+}
+
+.update {
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.butun {
+
+    margin: 40px;
+
+
+}
+
+
+.wiws {
+
+    padding: 10px;
+    background-color: #FF944E;
+    border-radius: 10px;
+    height: 70px;
+    width: 200px;
+    font-size: 25px;
+}
+
+.wiws:hover {
+    background-color: #a15d2f;
+    color: #D9DCDA;
+}
+
+.text {
+
+    margin: 10px;
+    padding-top: 40px;
+    text-align: center;
+    color: #D9DCDA;
+    font-size: 30px;
+}

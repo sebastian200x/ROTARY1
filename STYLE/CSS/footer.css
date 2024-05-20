@@ -1,0 +1,31 @@
+.footer {
+
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: #545454;
+    padding: 50px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.footer h1 {
+    
+    font-size: 20px;
+    color: #D9DCDA;
+}
+
+.cop {
+
+
+    color: #D9DCDA;
+}
+
+.footer-img {
+
+
+}
+
+
+

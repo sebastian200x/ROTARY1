@@ -1,0 +1,51 @@
+.welc h1 {
+
+    width: 100%;
+    text-align: center;
+    line-height: 1.2;
+    color: #545454;
+    margin-block: 30px;
+
+}
+
+.welc {
+
+    font-size: 30px;
+}
+
+.news {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.news .card {
+
+    width: 32%;
+}
+
+.content img {
+
+    width: 100%;
+
+    border-radius: 15px;
+}
+
+.content h1 {
+
+    font-size: 40px;
+    margin-block: 14px;
+}
+
+.content h3 {
+
+    margin-block: 10px;
+    color: #dd722a;
+}
+
+.content p {
+
+    line-height: 1.6;
+}
+

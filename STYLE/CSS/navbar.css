@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background-color: #D9DCDA;
+   
+}
+
+/* .wrapper {
+
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+} */
+
+.header {
+
+    background-color: #FF944E;
+    padding: 10px;
+    
+    width: 100%;
+    height: 50px;
+
+}
+
+.header2 {
+    background-color: #D9DCDA;
+    width: 100%;
+    height: auto;
+    
+    padding: 10px;
+    border-bottom: 2px solid #545454;
+    
+
+
+}
+
+.flex {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.social_media a {
+    width: 40px;
+    height: 40px;
+    
+    text-align: center;
+    color: #545454;
+    font-size: 30px;
+    margin: 5px;
+
+}
+
+.social_media a:hover {
+
+    color: #9f9f9f;
+}
+
+.right a {
+
+    text-decoration: none;
+    color: #545454;
+
+    font-size: 20px;
+    padding: 15px 10px 15px 10px;
+
+}
+
+.right a:hover {
+
+    background-color: #ce6c2b;
+}
+
+
+
+
+
+
+
+
+
+.content {
+    padding: 20px;
+    color: #545454;
+    
+    width: 100%;
+}
+
+.flex2 {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image {
+
+    margin: 10px 15px 10px 10px;
+}
+
+.navbutton {
+
+    margin: 30px;
+    /* height: 30px; */
+    align-items: center;
+
+
+}
+
+.navbutton a {
+
+
+    color: #545454;
+    border: 3px solid #FF944E;
+    border-radius: 15px;
+    padding: 15px 30px;
+    margin: 0 8px;
+    font-weight: bold;
+
+
+
+}
+
+.navbutton a:hover {
+
+    background-color: #FF944E;
+    color: #D9DCDA;
+}
+
+
+
+
+
+
+.dropbtn {
+    color: #545454;
+    border: 3px solid #FF944E;
+    border-radius: 15px;
+    padding: 15px 30px;
+    margin: 0 8px;
+    font-weight: bold;
+
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #FF944E;
+    color: #D9DCDA;
+
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #FF944E;
+    color: #D9DCDA;
+}
