@@ -13,6 +13,7 @@
 main {
 
     margin-inline: 40px;
+    height: 60dvh;
 }
 
 .semi {
@@ -29,10 +30,11 @@ main {
     margin-bottom: 20px;
 }
 
-table {
+/* table {
 
     
     width: 75%;
+    border: 1px solid #545454;
     
 }
 
@@ -51,3 +53,30 @@ table td {
     
 }
 
+table th, td {
+
+    border: 1px solid #545454;
+} */
+
+table, td, th {  
+    border: 1px solid #545454;
+    text-align: left;
+
+    font-size: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 70%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+
+  th {
+
+    text-align: center;
+    background-color: #545454;
+    color: white;
+  }

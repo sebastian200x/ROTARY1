@@ -18,7 +18,11 @@
             <h1>OUR <font color=#FF944E> HISTORY </font></h1>
         </div>
 
+        <div class="img">
 
+            <img src="./STYLE/IMAGE/carousel-1.jpg" alt="ROTARY">
+
+        </div>
 
         <div class="desc">
 

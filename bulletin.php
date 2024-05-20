@@ -19,7 +19,7 @@
     <main>
 
         <div class="semi">
-            <h2>ROTARY UPCOMING EVENTS</h2>
+            <h2>ROTARY UPCOMING EVENTS</h2> <br>
         </div>
     <div class="tabl">
         <table>
@@ -35,6 +35,11 @@
 
             <tr>
                 <td>PMCI</td>
+                <td>15-10-2020</td>
+            </tr>
+
+            <tr>
+                <td>HALLOWEEN PARTY</td>
                 <td>15-10-2020</td>
             </tr>
         </table>

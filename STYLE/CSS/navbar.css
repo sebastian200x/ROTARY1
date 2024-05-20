@@ -74,15 +74,17 @@ body {
 
     text-decoration: none;
     color: #545454;
-
+    font-weight: bold;
     font-size: 20px;
     padding: 15px 10px 15px 10px;
+    transition: transform .2s;
 
 }
 
 .right a:hover {
 
-    background-color: #ce6c2b;
+    color: #242424;
+    transform: scale(1.5);
 }
 
 

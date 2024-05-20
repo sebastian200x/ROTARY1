@@ -1,0 +1,58 @@
+main {
+
+    
+
+    margin-inline: 40px;
+}
+
+.cent {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    color: #545454;
+    padding: 15px;
+
+    font-size: 30px;
+}
+
+.media-container {
+
+    margin-block: 20px;
+    color: #545454;
+}
+
+.med img {
+
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+
+}
+
+.med {
+
+    width: 100%;
+
+    margin-block: 60PX;
+
+    
+}
+
+.med h1 {
+
+    margin-bottom: 20px;
+}
+
+.images {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    margin-block: 20px;
+}
+
+
+

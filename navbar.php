@@ -23,7 +23,7 @@ include 'db.php';
 
                     <div class="right">
 
-                        <a href="">CONTACT US</a>
+                        <a href="./contact.php">CONTACT US</a>
                         
 
                     </div>
@@ -42,6 +42,7 @@ include 'db.php';
                         <a href="./index.php">HOME</a>
                         <a href="./bulletin.php">BULLETIN</a>
                         <a href="./events.php">EVENTS</a>
+                        <a href="./media.php">MEDIA</a>
                         <a href="./history.php">ABOUT US</a>
                     </div>
 
