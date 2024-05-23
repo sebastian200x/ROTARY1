@@ -32,6 +32,10 @@
                         <div>
                             <h1 class="title">TITLE</h1>
                         </div>
+
+                        <div class="date">
+                            <h3>JANUARY 11, 2022</h3>
+                        </div>
                         <div>
                             <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
                                 blanditiis, placeat
@@ -53,6 +57,10 @@
                         <div>
                             <h1 class="title">TITLE</h1>
                         </div>
+
+                        <div class="date">
+                            <h3>JANUARY 11, 2022</h3>
+                        </div>
                         <div>
                             <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
                                 blanditiis, placeat
@@ -73,26 +81,9 @@
                         <div>
                             <h1 class="title">TITLE</h1>
                         </div>
-                        <div>
-                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-                                blanditiis, placeat
-                                laudantium id aliquid recusandae ab earum, aliquam qui, perspiciatis reprehenderit sequi
-                                suscipit vitae numquam quia ullam animi ipsam impedit!</p>
 
-                        </div>
-
-                        <div class="but">
-                            <button class="edit">EDIT</button>
-                            <button class="del">DELETE</button>
-
-                        </div>
-
-                    </div>
-
-                    <div class="event-container">
-                        <div><img class="event-img" src="./STYLE/IMAGE/def-img.png" alt="EVENT"></div>
-                        <div>
-                            <h1 class="title">TITLE</h1>
+                        <div class="date">
+                            <h3>JANUARY 11, 2022</h3>
                         </div>
                         <div>
                             <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
@@ -114,6 +105,35 @@
                         <div><img class="event-img" src="./STYLE/IMAGE/def-img.png" alt="EVENT"></div>
                         <div>
                             <h1 class="title">TITLE</h1>
+                        </div>
+
+                        <div class="date">
+                            <h3>JANUARY 11, 2022</h3>
+                        </div>
+                        <div>
+                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+                                blanditiis, placeat
+                                laudantium id aliquid recusandae ab earum, aliquam qui, perspiciatis reprehenderit sequi
+                                suscipit vitae numquam quia ullam animi ipsam impedit!</p>
+
+                        </div>
+
+                        <div class="but">
+                            <button class="edit">EDIT</button>
+                            <button class="del">DELETE</button>
+
+                        </div>
+
+                    </div>
+
+                    <div class="event-container">
+                        <div><img class="event-img" src="./STYLE/IMAGE/def-img.png" alt="EVENT"></div>
+                        <div>
+                            <h1 class="title">TITLE</h1>
+                        </div>
+
+                        <div class="date">
+                            <h3>JANUARY 11, 2022</h3>
                         </div>
                         <div>
                             <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente

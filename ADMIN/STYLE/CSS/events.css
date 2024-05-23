@@ -33,6 +33,11 @@
 
 }
 
+.date h3 {
+
+    color: #545454;
+}
+
 .flex-boton {
 
     display: flex;
