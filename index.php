@@ -54,8 +54,6 @@
         <div class="box">FOURTH: The advancement of international understanding, goodwill, and peace through a world
             fellowship of business and professional persons united in the ideal of service.
         </div>
-
-
     </div>
 
     <br>

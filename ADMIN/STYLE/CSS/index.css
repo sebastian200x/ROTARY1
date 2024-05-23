@@ -99,8 +99,6 @@ label.left {
     cursor: pointer;
     font-size: 20px;
     width: 40%;
-
-
 }
 
 .span {
@@ -111,4 +109,9 @@ label.left {
 span.psw {
     padding-top: 16px;
 
+}
+
+.error {
+    color: red;
+    text-align: center;
 }
